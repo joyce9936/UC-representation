@@ -1,0 +1,221 @@
+unitid,institution name,college,year,position,Professors,Gender
+110635,University of California-Berkeley,UCB,2010,"Total full-time Instruction/research/public service, Tenured, Professors",668,Male
+110644,University of California-Davis,UCD,2010,"Total full-time Instruction/research/public service, Tenured, Professors",686,Male
+110653,University of California-Irvine,UCI,2010,"Total full-time Instruction/research/public service, Tenured, Professors",440,Male
+110662,University of California-Los Angeles,UCLA,2010,"Total full-time Instruction/research/public service, Tenured, Professors",915,Male
+110671,University of California-Riverside,UCR,2010,"Total full-time Instruction/research/public service, Tenured, Professors",260,Male
+110680,University of California-San Diego,UCSD,2010,"Total full-time Instruction/research/public service, Tenured, Professors",573,Male
+110699,University of California-San Francisco,UCSF,2010,"Total full-time Instruction/research/public service, Tenured, Professors",183,Male
+110705,University of California-Santa Barbara,UCSB,2010,"Total full-time Instruction/research/public service, Tenured, Professors",376,Male
+110714,University of California-Santa Cruz,UCSC,2010,"Total full-time Instruction/research/public service, Tenured, Professors",196,Male
+445188,University of California-Merced,UCM,2010,"Total full-time Instruction/research/public service, Tenured, Professors",23,Male
+110635,University of California-Berkeley,UCB,2011,"Total full-time Instruction/research/public service, Tenured, Professors",640,Male
+110644,University of California-Davis,UCD,2011,"Total full-time Instruction/research/public service, Tenured, Professors",676,Male
+110653,University of California-Irvine,UCI,2011,"Total full-time Instruction/research/public service, Tenured, Professors",450,Male
+110662,University of California-Los Angeles,UCLA,2011,"Total full-time Instruction/research/public service, Tenured, Professors",892,Male
+110671,University of California-Riverside,UCR,2011,"Total full-time Instruction/research/public service, Tenured, Professors",263,Male
+110680,University of California-San Diego,UCSD,2011,"Total full-time Instruction/research/public service, Tenured, Professors",575,Male
+110699,University of California-San Francisco,UCSF,2011,"Total full-time Instruction/research/public service, Tenured, Professors",169,Male
+110705,University of California-Santa Barbara,UCSB,2011,"Total full-time Instruction/research/public service, Tenured, Professors",362,Male
+110714,University of California-Santa Cruz,UCSC,2011,"Total full-time Instruction/research/public service, Tenured, Professors",199,Male
+445188,University of California-Merced,UCM,2011,"Total full-time Instruction/research/public service, Tenured, Professors",24,Male
+110635,University of California-Berkeley,UCB,2012,"Tenured, professors",640,Male
+110644,University of California-Davis,UCD,2012,"Tenured, professors",677,Male
+110653,University of California-Irvine,UCI,2012,"Tenured, professors",454,Male
+110662,University of California-Los Angeles,UCLA,2012,"Tenured, professors",878,Male
+110671,University of California-Riverside,UCR,2012,"Tenured, professors",253,Male
+110680,University of California-San Diego,UCSD,2012,"Tenured, professors",591,Male
+110699,University of California-San Francisco,UCSF,2012,"Tenured, professors",166,Male
+110705,University of California-Santa Barbara,UCSB,2012,"Tenured, professors",359,Male
+110714,University of California-Santa Cruz,UCSC,2012,"Tenured, professors",200,Male
+445188,University of California-Merced,UCM,2012,"Tenured, professors",28,Male
+110635,University of California-Berkeley,UCB,2013,"Tenured, professors",634,Male
+110644,University of California-Davis,UCD,2013,"Tenured, professors",659,Male
+110653,University of California-Irvine,UCI,2013,"Tenured, professors",468,Male
+110662,University of California-Los Angeles,UCLA,2013,"Tenured, professors",855,Male
+110671,University of California-Riverside,UCR,2013,"Tenured, professors",246,Male
+110680,University of California-San Diego,UCSD,2013,"Tenured, professors",585,Male
+110699,University of California-San Francisco,UCSF,2013,"Tenured, professors",172,Male
+110705,University of California-Santa Barbara,UCSB,2013,"Tenured, professors",365,Male
+110714,University of California-Santa Cruz,UCSC,2013,"Tenured, professors",199,Male
+445188,University of California-Merced,UCM,2013,"Tenured, professors",28,Male
+110635,University of California-Berkeley,UCB,2014,"Tenured, professors",630,Male
+110644,University of California-Davis,UCD,2014,"Tenured, professors",652,Male
+110653,University of California-Irvine,UCI,2014,"Tenured, professors",462,Male
+110662,University of California-Los Angeles,UCLA,2014,"Tenured, professors",838,Male
+110671,University of California-Riverside,UCR,2014,"Tenured, professors",247,Male
+110680,University of California-San Diego,UCSD,2014,"Tenured, professors",598,Male
+110699,University of California-San Francisco,UCSF,2014,"Tenured, professors",164,Male
+110705,University of California-Santa Barbara,UCSB,2014,"Tenured, professors",365,Male
+110714,University of California-Santa Cruz,UCSC,2014,"Tenured, professors",189,Male
+445188,University of California-Merced,UCM,2014,"Tenured, professors",29,Male
+110635,University of California-Berkeley,UCB,2015,"Tenured, professors",615,Male
+110644,University of California-Davis,UCD,2015,"Tenured, professors",649,Male
+110653,University of California-Irvine,UCI,2015,"Tenured, professors",478,Male
+110662,University of California-Los Angeles,UCLA,2015,"Tenured, professors",882,Male
+110671,University of California-Riverside,UCR,2015,"Tenured, professors",246,Male
+110680,University of California-San Diego,UCSD,2015,"Tenured, professors",618,Male
+110699,University of California-San Francisco,UCSF,2015,"Tenured, professors",163,Male
+110705,University of California-Santa Barbara,UCSB,2015,"Tenured, professors",363,Male
+110714,University of California-Santa Cruz,UCSC,2015,"Tenured, professors",195,Male
+445188,University of California-Merced,UCM,2015,"Tenured, professors",32,Male
+110635,University of California-Berkeley,UCB,2016,"Tenured, professors",611,Male
+110644,University of California-Davis,UCD,2016,"Tenured, professors",638,Male
+110653,University of California-Irvine,UCI,2016,"Tenured, professors",490,Male
+110662,University of California-Los Angeles,UCLA,2016,"Tenured, professors",882,Male
+110671,University of California-Riverside,UCR,2016,"Tenured, professors",250,Male
+110680,University of California-San Diego,UCSD,2016,"Tenured, professors",631,Male
+110699,University of California-San Francisco,UCSF,2016,"Tenured, professors",166,Male
+110705,University of California-Santa Barbara,UCSB,2016,"Tenured, professors",366,Male
+110714,University of California-Santa Cruz,UCSC,2016,"Tenured, professors",189,Male
+445188,University of California-Merced,UCM,2016,"Tenured, professors",37,Male
+110635,University of California-Berkeley,UCB,2017,"Tenured, professors",612,Male
+110644,University of California-Davis,UCD,2017,"Tenured, professors",687,Male
+110653,University of California-Irvine,UCI,2017,"Tenured, professors",508,Male
+110662,University of California-Los Angeles,UCLA,2017,"Tenured, professors",878,Male
+110671,University of California-Riverside,UCR,2017,"Tenured, professors",268,Male
+110680,University of California-San Diego,UCSD,2017,"Tenured, professors",640,Male
+110699,University of California-San Francisco,UCSF,2017,"Tenured, professors",169,Male
+110705,University of California-Santa Barbara,UCSB,2017,"Tenured, professors",363,Male
+110714,University of California-Santa Cruz,UCSC,2017,"Tenured, professors",195,Male
+445188,University of California-Merced,UCM,2017,"Tenured, professors",43,Male
+110635,University of California-Berkeley,UCB,2018,"Tenured, professors",603,Male
+110644,University of California-Davis,UCD,2018,"Tenured, professors",666,Male
+110653,University of California-Irvine,UCI,2018,"Tenured, professors",517,Male
+110662,University of California-Los Angeles,UCLA,2018,"Tenured, professors",845,Male
+110671,University of California-Riverside,UCR,2018,"Tenured, professors",267,Male
+110680,University of California-San Diego,UCSD,2018,"Tenured, professors",639,Male
+110699,University of California-San Francisco,UCSF,2018,"Tenured, professors",176,Male
+110705,University of California-Santa Barbara,UCSB,2018,"Tenured, professors",350,Male
+110714,University of California-Santa Cruz,UCSC,2018,"Tenured, professors",190,Male
+445188,University of California-Merced,UCM,2018,"Tenured, professors",48,Male
+110635,University of California-Berkeley,UCB,2019,"Tenured, professors",610,Male
+110644,University of California-Davis,UCD,2019,"Tenured, professors",631,Male
+110653,University of California-Irvine,UCI,2019,"Tenured, professors",521,Male
+110662,University of California-Los Angeles,UCLA,2019,"Tenured, professors",858,Male
+110671,University of California-Riverside,UCR,2019,"Tenured, professors",272,Male
+110680,University of California-San Diego,UCSD,2019,"Tenured, professors",657,Male
+110699,University of California-San Francisco,UCSF,2019,"Tenured, professors",176,Male
+110705,University of California-Santa Barbara,UCSB,2019,"Tenured, professors",345,Male
+110714,University of California-Santa Cruz,UCSC,2019,"Tenured, professors",197,Male
+445188,University of California-Merced,UCM,2019,"Tenured, professors",53,Male
+110635,University of California-Berkeley,UCB,2020,"Full-time instructional tenured, professors",602,Male
+110644,University of California-Davis,UCD,2020,"Full-time instructional tenured, professors",636,Male
+110653,University of California-Irvine,UCI,2020,"Full-time instructional tenured, professors",522,Male
+110662,University of California-Los Angeles,UCLA,2020,"Full-time instructional tenured, professors",834,Male
+110671,University of California-Riverside,UCR,2020,"Full-time instructional tenured, professors",271,Male
+110680,University of California-San Diego,UCSD,2020,"Full-time instructional tenured, professors",650,Male
+110699,University of California-San Francisco,UCSF,2020,"Full-time instructional tenured, professors",173,Male
+110705,University of California-Santa Barbara,UCSB,2020,"Full-time instructional tenured, professors",341,Male
+110714,University of California-Santa Cruz,UCSC,2020,"Full-time instructional tenured, professors",195,Male
+445188,University of California-Merced,UCM,2020,"Full-time instructional tenured, professors",57,Male
+110635,University of California-Berkeley,UCB,2010,"Total full-time Instruction/research/public service, Tenured, Professors",183,Female
+110644,University of California-Davis,UCD,2010,"Total full-time Instruction/research/public service, Tenured, Professors",221,Female
+110653,University of California-Irvine,UCI,2010,"Total full-time Instruction/research/public service, Tenured, Professors",131,Female
+110662,University of California-Los Angeles,UCLA,2010,"Total full-time Instruction/research/public service, Tenured, Professors",280,Female
+110671,University of California-Riverside,UCR,2010,"Total full-time Instruction/research/public service, Tenured, Professors",67,Female
+110680,University of California-San Diego,UCSD,2010,"Total full-time Instruction/research/public service, Tenured, Professors",116,Female
+110699,University of California-San Francisco,UCSF,2010,"Total full-time Instruction/research/public service, Tenured, Professors",92,Female
+110705,University of California-Santa Barbara,UCSB,2010,"Total full-time Instruction/research/public service, Tenured, Professors",127,Female
+110714,University of California-Santa Cruz,UCSC,2010,"Total full-time Instruction/research/public service, Tenured, Professors",90,Female
+445188,University of California-Merced,UCM,2010,"Total full-time Instruction/research/public service, Tenured, Professors",6,Female
+110635,University of California-Berkeley,UCB,2011,"Total full-time Instruction/research/public service, Tenured, Professors",190,Female
+110644,University of California-Davis,UCD,2011,"Total full-time Instruction/research/public service, Tenured, Professors",224,Female
+110653,University of California-Irvine,UCI,2011,"Total full-time Instruction/research/public service, Tenured, Professors",139,Female
+110662,University of California-Los Angeles,UCLA,2011,"Total full-time Instruction/research/public service, Tenured, Professors",274,Female
+110671,University of California-Riverside,UCR,2011,"Total full-time Instruction/research/public service, Tenured, Professors",62,Female
+110680,University of California-San Diego,UCSD,2011,"Total full-time Instruction/research/public service, Tenured, Professors",128,Female
+110699,University of California-San Francisco,UCSF,2011,"Total full-time Instruction/research/public service, Tenured, Professors",84,Female
+110705,University of California-Santa Barbara,UCSB,2011,"Total full-time Instruction/research/public service, Tenured, Professors",136,Female
+110714,University of California-Santa Cruz,UCSC,2011,"Total full-time Instruction/research/public service, Tenured, Professors",95,Female
+445188,University of California-Merced,UCM,2011,"Total full-time Instruction/research/public service, Tenured, Professors",7,Female
+110635,University of California-Berkeley,UCB,2012,"Tenured, professors",200,Female
+110644,University of California-Davis,UCD,2012,"Tenured, professors",227,Female
+110653,University of California-Irvine,UCI,2012,"Tenured, professors",153,Female
+110662,University of California-Los Angeles,UCLA,2012,"Tenured, professors",280,Female
+110671,University of California-Riverside,UCR,2012,"Tenured, professors",63,Female
+110680,University of California-San Diego,UCSD,2012,"Tenured, professors",126,Female
+110699,University of California-San Francisco,UCSF,2012,"Tenured, professors",83,Female
+110705,University of California-Santa Barbara,UCSB,2012,"Tenured, professors",138,Female
+110714,University of California-Santa Cruz,UCSC,2012,"Tenured, professors",97,Female
+445188,University of California-Merced,UCM,2012,"Tenured, professors",7,Female
+110635,University of California-Berkeley,UCB,2013,"Tenured, professors",207,Female
+110644,University of California-Davis,UCD,2013,"Tenured, professors",238,Female
+110653,University of California-Irvine,UCI,2013,"Tenured, professors",155,Female
+110662,University of California-Los Angeles,UCLA,2013,"Tenured, professors",277,Female
+110671,University of California-Riverside,UCR,2013,"Tenured, professors",62,Female
+110680,University of California-San Diego,UCSD,2013,"Tenured, professors",139,Female
+110699,University of California-San Francisco,UCSF,2013,"Tenured, professors",78,Female
+110705,University of California-Santa Barbara,UCSB,2013,"Tenured, professors",147,Female
+110714,University of California-Santa Cruz,UCSC,2013,"Tenured, professors",101,Female
+445188,University of California-Merced,UCM,2013,"Tenured, professors",9,Female
+110635,University of California-Berkeley,UCB,2014,"Tenured, professors",204,Female
+110644,University of California-Davis,UCD,2014,"Tenured, professors",253,Female
+110653,University of California-Irvine,UCI,2014,"Tenured, professors",167,Female
+110662,University of California-Los Angeles,UCLA,2014,"Tenured, professors",294,Female
+110671,University of California-Riverside,UCR,2014,"Tenured, professors",71,Female
+110680,University of California-San Diego,UCSD,2014,"Tenured, professors",145,Female
+110699,University of California-San Francisco,UCSF,2014,"Tenured, professors",74,Female
+110705,University of California-Santa Barbara,UCSB,2014,"Tenured, professors",146,Female
+110714,University of California-Santa Cruz,UCSC,2014,"Tenured, professors",100,Female
+445188,University of California-Merced,UCM,2014,"Tenured, professors",9,Female
+110635,University of California-Berkeley,UCB,2015,"Tenured, professors",212,Female
+110644,University of California-Davis,UCD,2015,"Tenured, professors",248,Female
+110653,University of California-Irvine,UCI,2015,"Tenured, professors",174,Female
+110662,University of California-Los Angeles,UCLA,2015,"Tenured, professors",322,Female
+110671,University of California-Riverside,UCR,2015,"Tenured, professors",74,Female
+110680,University of California-San Diego,UCSD,2015,"Tenured, professors",151,Female
+110699,University of California-San Francisco,UCSF,2015,"Tenured, professors",74,Female
+110705,University of California-Santa Barbara,UCSB,2015,"Tenured, professors",146,Female
+110714,University of California-Santa Cruz,UCSC,2015,"Tenured, professors",93,Female
+445188,University of California-Merced,UCM,2015,"Tenured, professors",12,Female
+110635,University of California-Berkeley,UCB,2016,"Tenured, professors",213,Female
+110644,University of California-Davis,UCD,2016,"Tenured, professors",263,Female
+110653,University of California-Irvine,UCI,2016,"Tenured, professors",185,Female
+110662,University of California-Los Angeles,UCLA,2016,"Tenured, professors",338,Female
+110671,University of California-Riverside,UCR,2016,"Tenured, professors",80,Female
+110680,University of California-San Diego,UCSD,2016,"Tenured, professors",164,Female
+110699,University of California-San Francisco,UCSF,2016,"Tenured, professors",79,Female
+110705,University of California-Santa Barbara,UCSB,2016,"Tenured, professors",152,Female
+110714,University of California-Santa Cruz,UCSC,2016,"Tenured, professors",94,Female
+445188,University of California-Merced,UCM,2016,"Tenured, professors",12,Female
+110635,University of California-Berkeley,UCB,2017,"Tenured, professors",215,Female
+110644,University of California-Davis,UCD,2017,"Tenured, professors",286,Female
+110653,University of California-Irvine,UCI,2017,"Tenured, professors",206,Female
+110662,University of California-Los Angeles,UCLA,2017,"Tenured, professors",350,Female
+110671,University of California-Riverside,UCR,2017,"Tenured, professors",85,Female
+110680,University of California-San Diego,UCSD,2017,"Tenured, professors",170,Female
+110699,University of California-San Francisco,UCSF,2017,"Tenured, professors",79,Female
+110705,University of California-Santa Barbara,UCSB,2017,"Tenured, professors",157,Female
+110714,University of California-Santa Cruz,UCSC,2017,"Tenured, professors",97,Female
+445188,University of California-Merced,UCM,2017,"Tenured, professors",15,Female
+110635,University of California-Berkeley,UCB,2018,"Tenured, professors",218,Female
+110644,University of California-Davis,UCD,2018,"Tenured, professors",297,Female
+110653,University of California-Irvine,UCI,2018,"Tenured, professors",205,Female
+110662,University of California-Los Angeles,UCLA,2018,"Tenured, professors",341,Female
+110671,University of California-Riverside,UCR,2018,"Tenured, professors",85,Female
+110680,University of California-San Diego,UCSD,2018,"Tenured, professors",174,Female
+110699,University of California-San Francisco,UCSF,2018,"Tenured, professors",79,Female
+110705,University of California-Santa Barbara,UCSB,2018,"Tenured, professors",158,Female
+110714,University of California-Santa Cruz,UCSC,2018,"Tenured, professors",100,Female
+445188,University of California-Merced,UCM,2018,"Tenured, professors",22,Female
+110635,University of California-Berkeley,UCB,2019,"Tenured, professors",226,Female
+110644,University of California-Davis,UCD,2019,"Tenured, professors",305,Female
+110653,University of California-Irvine,UCI,2019,"Tenured, professors",210,Female
+110662,University of California-Los Angeles,UCLA,2019,"Tenured, professors",368,Female
+110671,University of California-Riverside,UCR,2019,"Tenured, professors",91,Female
+110680,University of California-San Diego,UCSD,2019,"Tenured, professors",178,Female
+110699,University of California-San Francisco,UCSF,2019,"Tenured, professors",82,Female
+110705,University of California-Santa Barbara,UCSB,2019,"Tenured, professors",161,Female
+110714,University of California-Santa Cruz,UCSC,2019,"Tenured, professors",101,Female
+445188,University of California-Merced,UCM,2019,"Tenured, professors",29,Female
+110635,University of California-Berkeley,UCB,2020,"Full-time instructional tenured, professors",239,Female
+110644,University of California-Davis,UCD,2020,"Full-time instructional tenured, professors",318,Female
+110653,University of California-Irvine,UCI,2020,"Full-time instructional tenured, professors",216,Female
+110662,University of California-Los Angeles,UCLA,2020,"Full-time instructional tenured, professors",377,Female
+110671,University of California-Riverside,UCR,2020,"Full-time instructional tenured, professors",90,Female
+110680,University of California-San Diego,UCSD,2020,"Full-time instructional tenured, professors",178,Female
+110699,University of California-San Francisco,UCSF,2020,"Full-time instructional tenured, professors",82,Female
+110705,University of California-Santa Barbara,UCSB,2020,"Full-time instructional tenured, professors",164,Female
+110714,University of California-Santa Cruz,UCSC,2020,"Full-time instructional tenured, professors",106,Female
+445188,University of California-Merced,UCM,2020,"Full-time instructional tenured, professors",32,Female
